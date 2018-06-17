@@ -39,17 +39,4 @@ To install everything in one command, use:
 cd $HOME && git clone https://github.com/BeyondTeam/BDHelper.git && cd BDHelper && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
-# Support and Development
-
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
-
-# Special thanks to
-
 [@AmirBagheri](https://github.com/CodeLua)
-
-* * *
-
-
-### Our Telegram channel:
-
-[@BeyondTeam](https://t.me/BeyondTeam)
